@@ -18,7 +18,7 @@ const myRoute:Routes =[
     component:PatientSearchComponent
   },
   {
-    path:"Delete",
+    path:"delete",
     component:PatientDeleteComponent
   }
 ]
