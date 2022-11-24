@@ -15,7 +15,11 @@ const myRoute:Routes=[
   }
   {
     path:"search",
-    component:P
+    component:PatientSearchComponent
+  }
+  {
+    path:"Delete",
+    component:PatientDeleteComponent
   }
 ]
 
